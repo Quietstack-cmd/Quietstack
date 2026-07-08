@@ -27,4 +27,4 @@ Les bords biseautés évitent de trébucher en entrant ou sortant de la zone du 
 
 ## Faut-il en acheter un
 
-Si vous passez plus de 45 minutes d'affilée debout à votre bureau plusieurs fois par jour, le bénéfice est réel et le coût reste modeste comparé au reste d'un setup ergonomique. Si vos sessions debout sont plus courtes ou occasionnelles, ce n'est probablement pas la priorité d'achat.
+Si vous passez plus de 45 minutes d'affilée debout à votre bureau plusieurs fois par jour, le bénéfice est réel et le coût reste modeste comparé au reste d'un setup ergonomique. Un [tapis anti-fatigue de bonne épaisseur](https://www.amazon.fr/dp/B076S2RKHR?tag=quietstack-21) reste un des accessoires les plus rentables du setup ergonomique. Si vos sessions debout sont plus courtes ou occasionnelles, ce n'est probablement pas la priorité d'achat.
