@@ -19,7 +19,7 @@ Dans un espace partagé (chambre, salon), un bureau mural rabattable permet de l
 
 ## Optimiser sans bureau assis-debout complet
 
-Un bureau assis-debout électrique classique demande un certain dégagement au sol pour son mécanisme. Dans un espace vraiment restreint, une alternative existe : un rehausseur de bureau assis-debout, posé sur un bureau fixe classique, qui permet de passer en position debout ponctuellement sans les contraintes d'espace d'un bureau motorisé complet.
+Un bureau assis-debout électrique classique demande un certain dégagement au sol pour son mécanisme. Dans un espace vraiment restreint, une alternative existe : un [rehausseur de bureau assis-debout](https://www.amazon.fr/dp/B08YR9K4QW?tag=quietstack-21), posé sur un bureau fixe classique, qui permet de passer en position debout ponctuellement sans les contraintes d'espace d'un bureau motorisé complet.
 
 ## Gérer les câbles dans un espace visible
 
