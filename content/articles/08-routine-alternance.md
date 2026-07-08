@@ -25,6 +25,8 @@ Si aucun repère naturel ne se présente, une règle simple et largement citée 
 
 Mémoriser ses hauteurs préférées sur les boutons du bureau électrique réduit la friction du changement à presque rien : une seule pression suffit, contre plusieurs secondes de réglage manuel qui, cumulées, découragent souvent les changements fréquents.
 
+Un [minuteur visuel silencieux](https://www.amazon.fr/dp/B08K9GFDMP?tag=quietstack-21) posé sur le bureau peut suffire les premières semaines, le temps que l'alternance devienne un réflexe plutôt qu'un effort conscient — plus discret et moins intrusif qu'une alarme sonore répétée.
+
 Un rappel visuel simple, comme une note sur l'écran ou une alarme discrète toutes les heures, peut suffire les premières semaines, le temps que l'alternance devienne un réflexe plutôt qu'un effort conscient.
 
 ## Le signal à surveiller plutôt que l'horloge
