@@ -17,7 +17,7 @@ Chaque modèle électrique a une charge maximale recommandée, généralement en
 
 ## Négliger le passage des câbles
 
-En position basse, les câbles qui pendent librement peuvent se coincer entre le pied du bureau et le mur, ou s'accrocher lors de la montée. Un passe-câbles ou une goulotte flexible qui accompagne le mouvement évite l'usure prématurée des câbles et les à-coups mécaniques.
+En position basse, les câbles qui pendent librement peuvent se coincer entre le pied du bureau et le mur, ou s'accrocher lors de la montée. Une [goulotte passe-câbles conçue pour bureau motorisé](https://www.amazon.fr/dp/B07DFLC3GH?tag=quietstack-21) accompagne le mouvement du plateau et évite l'usure prématurée des câbles ainsi que les à-coups mécaniques.
 
 ## Sous-estimer le bruit à long terme
 
