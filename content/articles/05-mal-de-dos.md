@@ -15,7 +15,7 @@ Le vrai levier n'est pas la position en elle-même, mais l'alternance régulièr
 
 ## Les trois zones de tension les plus fréquentes
 
-La nuque est sollicitée quand l'écran est trop bas ou trop haut, obligeant à une flexion ou une extension prolongée du cou. Les épaules se contractent quand le clavier est trop loin ou trop haut, forçant à les hausser légèrement en continu sans même s'en rendre compte. Le bas du dos souffre principalement d'un manque de soutien lombaire, que ce soit sur une chaise de bureau standard ou en position debout sans transfert de poids entre les jambes.
+La nuque est sollicitée quand l'écran est trop bas ou trop haut, obligeant à une flexion ou une extension prolongée du cou. Les épaules se contractent quand le clavier est trop loin ou trop haut, forçant à les hausser légèrement en continu sans même s'en rendre compte. Le bas du dos souffre principalement d'un manque de soutien lombaire — un [coussin de soutien lombaire en mousse à mémoire de forme](https://www.amazon.fr/dp/B096RRKV2Y?tag=quietstack-21) permet souvent de corriger ça simplement sur une chaise de bureau standard, en attendant mieux si besoin.
 
 ## Ce qui a un effet démontré
 
