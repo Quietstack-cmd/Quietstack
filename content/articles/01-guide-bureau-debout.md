@@ -35,4 +35,8 @@ L'essentiel est d'écouter les signaux de fatigue et de changer de position avan
 
 Un bureau électrique motorisé permet de changer de hauteur en quelques secondes, ce qui favorise réellement l'alternance au fil de la journée. Un bureau à manivelle coûte moins cher mais décourage souvent les changements fréquents à cause de l'effort et du temps que ça demande — beaucoup finissent par rester dans une seule position par praticité, ce qui annule l'intérêt du système.
 
-Pour un usage régulier, le surcoût d'un modèle électrique se justifie généralement par l'usage réel qui en est fait.
+## Faut-il un bureau électrique ou manuel
+
+Un bureau électrique motorisé permet de changer de hauteur en quelques secondes, ce qui favorise réellement l'alternance au fil de la journée. Un bureau à manivelle coûte moins cher mais décourage souvent les changements fréquents à cause de l'effort et du temps que ça demande — beaucoup finissent par rester dans une seule position par praticité, ce qui annule l'intérêt du système.
+
+Pour un usage régulier, le surcoût d'un modèle électrique se justifie généralement par l'usage réel qui en est fait. Pour un premier achat, un [bureau électrique d'entrée de gamme avec positions mémorisées](https://www.amazon.fr/dp/B099ZTMGYQ?tag=quietstack-21) reste le meilleur point de départ : suffisant pour tester l'alternance sans investir dans le haut de gamme dès le premier essai.
