@@ -13,7 +13,9 @@ La chaise ergonomique et le bureau assis-debout ne répondent pas au même besoi
 
 ## Si votre budget est limité
 
-Avec un budget serré, la priorité dépend du temps réellement passé assis en continu. Si vous restez assis sans interruption pendant de longues périodes et ressentez surtout une gêne lombaire, une chaise correctement réglée (hauteur, soutien lombaire, accoudoirs) apporte souvent un bénéfice plus immédiat qu'un bureau électrique.
+Avec un budget serré, la priorité dépend du temps réellement passé assis en continu. Si vous restez assis sans interruption pendant de longues périodes et ressentez surtout une gêne lombaire, une [chaise ergonomique avec soutien lombaire réglable](https://www.amazon.fr/dp/B0BX9N56BW?tag=quietstack-21) apporte souvent un bénéfice plus immédiat qu'un bureau électrique.
+
+Si vous alternez déjà naturellement les positions dans la journée (réunions debout, pauses fréquentes) mais que votre inconfort vient surtout d'un manque de mouvement global, un bureau deb
 
 Si vous alternez déjà naturellement les positions dans la journée (réunions debout, pauses fréquentes) mais que votre inconfort vient surtout d'un manque de mouvement global, un bureau debout, même basique et non motorisé au départ, peut avoir plus d'impact.
 
