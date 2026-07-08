@@ -21,7 +21,7 @@ Ce calcul donne un point de départ, pas une valeur figée. Le réglage final do
 
 ## L'écran doit suivre le bureau
 
-Une erreur fréquente est d'ajuster le bureau sans repositionner l'écran. Le haut de l'écran doit arriver à peu près au niveau des yeux, ou légèrement en dessous, aussi bien assis que debout. Si l'écran est posé à même le bureau, il faudra probablement un support ou un bras d'écran réglable pour suivre les changements de hauteur du plan de travail.
+Une erreur fréquente est d'ajuster le bureau sans repositionner l'écran. Le haut de l'écran doit arriver à peu près au niveau des yeux, ou légèrement en dessous, aussi bien assis que debout. Si l'écran est posé à même le bureau, il faudra probablement un [support d'écran à hauteur réglable](https://www.amazon.fr/dp/B00MIBN16O?tag=quietstack-21) ou un bras d'écran pour suivre les changements de hauteur du plan de travail.
 
 ## Cas particulier : deux écrans ou écran + ordinateur portable
 
